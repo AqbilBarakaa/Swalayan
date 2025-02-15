@@ -1,0 +1,2 @@
+<?php
+// Fungsi cek login
